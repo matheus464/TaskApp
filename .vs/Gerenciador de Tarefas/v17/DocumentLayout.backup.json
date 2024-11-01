@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MATHEUS\\Gerenciador de Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BBDA62-0043-4818-BD84-C0B01F313143}|Gerenciador de Tarefas.csproj|c:\\users\\matheus\\gerenciador de tarefas\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BBDA62-0043-4818-BD84-C0B01F313143}|Gerenciador de Tarefas.csproj|solutionrelative:model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BBDA62-0043-4818-BD84-C0B01F313143}|Gerenciador de Tarefas.csproj|c:\\users\\matheus\\gerenciador de tarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BBDA62-0043-4818-BD84-C0B01F313143}|Gerenciador de Tarefas.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\MATHEUS\\Gerenciador de Tarefas\\Model\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Model\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\MATHEUS\\Gerenciador de Tarefas\\Model\\Tarefa.cs",
+              "RelativeToolTip": "Model\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:19:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\MATHEUS\\Gerenciador de Tarefas\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\MATHEUS\\Gerenciador de Tarefas\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Controllers\\TarefaController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA1wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:53:21.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

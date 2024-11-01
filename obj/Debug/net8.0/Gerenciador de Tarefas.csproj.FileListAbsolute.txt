@@ -1,0 +1,37 @@
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\appsettings.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.exe
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.deps.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.runtimeconfig.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.pdb
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.csproj.AssemblyReference.cache
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.AssemblyInfoInputs.cache
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.AssemblyInfo.cs
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets\msbuild.Gerenciador de Tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets\msbuild.build.Gerenciador de Tarefas.props
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gerenciador de Tarefas.props
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gerenciador de Tarefas.props
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\scopedcss\bundle\Gerenciador de Tarefas.styles.css
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerencia.D1206888.Up2Date
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\refint\Gerenciador de Tarefas.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.pdb
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.genruntimeconfig.cache
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\ref\Gerenciador de Tarefas.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
