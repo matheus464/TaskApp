@@ -27,6 +27,26 @@
   },
   {
     "ContainingType": "Gerenciador_de_Tarefas.Controllers.PessoaController",
+    "Method": "GetPessoas",
+    "RelativePath": "api/Pessoa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Gerenciador_de_Tarefas.Model.Pessoa, Gerenciador de Tarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Gerenciador_de_Tarefas.Controllers.PessoaController",
     "Method": "GetPessoa",
     "RelativePath": "api/Pessoa/{id}",
     "HttpMethod": "GET",
@@ -102,6 +122,26 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": [
+      {
+        "Type": "Gerenciador_de_Tarefas.Model.Tarefa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Gerenciador_de_Tarefas.Controllers.TarefaController",
+    "Method": "GetTarefas",
+    "RelativePath": "api/Tarefa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": [
       {
         "Type": "Gerenciador_de_Tarefas.Model.Tarefa",

@@ -17,6 +17,8 @@ namespace Gerenciador_de_Tarefas.Controllers
             _context = context;
         }
 
+
+        // Endpoint para criação de tarefas.
         [HttpPost]
         public async Task<ActionResult<Tarefa>> PostTarefa(Tarefa tarefa)
         {
@@ -25,7 +27,17 @@ namespace Gerenciador_de_Tarefas.Controllers
             return CreatedAtAction(nameof(GetTarefa), new { id = tarefa.Id }, tarefa);
         }
 
-      
+        // Endpoint para pegar todas as tarefas
+        [HttpGet]
+        public async Task<ActionResult<Tarefa>> GetTarefas()
+        {
+
+            var tarefas = await _context.Tarefas.ToListAsync();
+            return Ok(tarefas);
+
+        }
+
+        // Endpoint para pegar tarefa pelo id
         [HttpGet("{id}")]
         public async Task<ActionResult<Tarefa>> GetTarefa(int id)
         {
@@ -34,7 +46,7 @@ namespace Gerenciador_de_Tarefas.Controllers
             return tarefa;
         }
 
-
+        // Endpoint para atualizar tarefas
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTarefa(int id, Tarefa tarefa)
         {
@@ -44,7 +56,7 @@ namespace Gerenciador_de_Tarefas.Controllers
             return Ok();
         }
 
-        //Associar tarefa a uma pessoa
+        // Endpoint para associar tarefa a uma pessoa
         [HttpPut("{id}/associar/{pessoaId}")]
         public async Task<IActionResult> AssociarTarefa(int id, int pessoaId)
         {
@@ -58,7 +70,7 @@ namespace Gerenciador_de_Tarefas.Controllers
             return NoContent();
         }
 
-        // Desassociar tarefa de uma pessoa
+        // Endpoint para desassociar tarefa de uma pessoa
         [HttpPut("{id}/desassociar")]
         public async Task<IActionResult> DesassociarTarefa(int id)
         {

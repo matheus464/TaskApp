@@ -35,3 +35,4 @@ C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Microsoft.EntityFramewo
 C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\MATHEUS\Gerenciador de Tarefas\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\MATHEUS\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.sourcelink.json

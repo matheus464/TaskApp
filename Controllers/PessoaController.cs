@@ -12,18 +12,26 @@ namespace Gerenciador_de_Tarefas.Controllers
         private readonly AppDbContext? _context;
 
         public PessoaController(AppDbContext context) 
-        { 
+        {
             _context = context;
 
         }
 
-
+        // Endpoint para cadastrar uma pesoa
         [HttpPost]
         public async Task<ActionResult<Pessoa>> PostPessoa(Pessoa pessoa) 
         {   
             _context.Pessoas.Add(pessoa);
             await _context.SaveChangesAsync();
             return CreatedAtAction(nameof(GetPessoa), new { id = pessoa.Id }, pessoa);
+        }
+
+        // Endpoint para ler todas as pessoas
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Pessoa>>> GetPessoas()
+        {
+            var pessoas = await _context.Pessoas.ToListAsync();
+            return Ok(pessoas);
         }
 
 
@@ -46,6 +54,8 @@ namespace Gerenciador_de_Tarefas.Controllers
             return NoContent();
         }
 
+        
+        // Endpoint para deletar pessoa
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePessoa(int id)
         {
